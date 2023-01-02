@@ -1,0 +1,17 @@
+com.breakbounce.dashlane.app-jetified-play-services-base-17.1.0-0 C:\Users\banro\.gradle\caches\transforms-3\337267054994acb59edb7afd24540f44\transformed\jetified-play-services-base-17.1.0\res
+com.breakbounce.dashlane.app-jetified-play-services-ads-19.4.0-1 C:\Users\banro\.gradle\caches\transforms-3\396f5350d28723cf1e481813c9ccc193\transformed\jetified-play-services-ads-19.4.0\res
+com.breakbounce.dashlane.app-jetified-play-services-auth-18.1.0-2 C:\Users\banro\.gradle\caches\transforms-3\47c35c8de722edb5d68f2ac549406a6d\transformed\jetified-play-services-auth-18.1.0\res
+com.breakbounce.dashlane.app-jetified-play-services-basement-17.3.0-3 C:\Users\banro\.gradle\caches\transforms-3\756a705cad2e4eebed30b04e2dd8eef5\transformed\jetified-play-services-basement-17.3.0\res
+com.breakbounce.dashlane.app-core-1.2.0-4 C:\Users\banro\.gradle\caches\transforms-3\93b9c58dd15f3d4a87369edb433ba5c5\transformed\core-1.2.0\res
+com.breakbounce.dashlane.app-coordinatorlayout-1.0.0-5 C:\Users\banro\.gradle\caches\transforms-3\aed218d025929047634915300adb7a93\transformed\coordinatorlayout-1.0.0\res
+com.breakbounce.dashlane.app-browser-1.0.0-6 C:\Users\banro\.gradle\caches\transforms-3\d5a4637ee83fe335d7dcf31b68a17028\transformed\browser-1.0.0\res
+com.breakbounce.dashlane.app-jetified-play-services-ads-lite-19.4.0-7 C:\Users\banro\.gradle\caches\transforms-3\e82849cf8a455778ba1e044b5a1404b6\transformed\jetified-play-services-ads-lite-19.4.0\res
+com.breakbounce.dashlane.app-jetified-aob_sessionreporting-8 G:\Rohit Git second page\dashlane-admob-ads-1.0.0-main\dashlane-admob-ads-1.0.0-main\aob_sessionreporting\build\.transforms\3693aa5747b3c086e8d24aa963a0a22f\transformed\jetified-aob_sessionreporting\res
+com.breakbounce.dashlane.app-pngs-9 G:\Rohit Git second page\dashlane-admob-ads-1.0.0-main\dashlane-admob-ads-1.0.0-main\app\build\generated\res\pngs\debug
+com.breakbounce.dashlane.app-resValues-10 G:\Rohit Git second page\dashlane-admob-ads-1.0.0-main\dashlane-admob-ads-1.0.0-main\app\build\generated\res\resValues\debug
+com.breakbounce.dashlane.app-rs-11 G:\Rohit Git second page\dashlane-admob-ads-1.0.0-main\dashlane-admob-ads-1.0.0-main\app\build\generated\res\rs\debug
+com.breakbounce.dashlane.app-mergeDebugResources-12 G:\Rohit Git second page\dashlane-admob-ads-1.0.0-main\dashlane-admob-ads-1.0.0-main\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.breakbounce.dashlane.app-mergeDebugResources-13 G:\Rohit Git second page\dashlane-admob-ads-1.0.0-main\dashlane-admob-ads-1.0.0-main\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.breakbounce.dashlane.app-merged_res-14 G:\Rohit Git second page\dashlane-admob-ads-1.0.0-main\dashlane-admob-ads-1.0.0-main\app\build\intermediates\merged_res\debug
+com.breakbounce.dashlane.app-debug-15 G:\Rohit Git second page\dashlane-admob-ads-1.0.0-main\dashlane-admob-ads-1.0.0-main\app\src\debug\res
+com.breakbounce.dashlane.app-main-16 G:\Rohit Git second page\dashlane-admob-ads-1.0.0-main\dashlane-admob-ads-1.0.0-main\app\src\main\res
